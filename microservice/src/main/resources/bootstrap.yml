@@ -1,1 +1,2 @@
+# set same key as our config server
 encrypt.key: "this_is_a_secret"
