@@ -3,3 +3,7 @@ server:
 spring:
   application:
     name: "discovery-server"
+eureka:
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
