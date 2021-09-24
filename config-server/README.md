@@ -2,12 +2,11 @@
 
 ### tools ####
 
-Maven
-Kotlin
-Spring Boot:
- - Config Server
-IntelliJ
-Eureka Server
+- Maven
+- Kotlin
+- Spring Boot: Config Server, Eureka Server
+
+- IntelliJ
 
 obs: Cipher data with Java Cryptography
 
