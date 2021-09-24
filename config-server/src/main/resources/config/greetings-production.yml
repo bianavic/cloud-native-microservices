@@ -1,3 +1,6 @@
 microservice:
   example:
     greetings: "hello from another profile"
+
+# with this production environment I need to run the service with another command
+# java -jar target/config-server-0.0.1-SNAPSHOT.jar --spring.cloud.config.profile=production
