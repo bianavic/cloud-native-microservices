@@ -1,9 +1,16 @@
 # Configuration Server
 
-server.port = 8888
+### tools ####
 
 Maven
 Kotlin
-Spring
+Spring Boot:
+ - Config Server
 IntelliJ
 Eureka Server
+
+obs: Cipher data with Java Cryptography
+
+### port ###
+
+server.port = 8888

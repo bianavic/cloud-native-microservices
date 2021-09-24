@@ -1,11 +1,12 @@
-# Server Discovery Service
+# Service Discovery Server
+
+### tools ####
+
+- Kotlin
+- IntelliJ
+- Spring: Eureka Server
+- Maven
+
+### port ###
 
 server.port: 8761
-
-#### tools #####
-
-Kotlin
-IntelliJ
-Spring
-Eureka Server
-Maven
