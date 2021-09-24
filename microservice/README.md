@@ -4,5 +4,5 @@ Maven
 Kotlin
 IntelliJ
 Spring:
-- Config client
+- Config client, Eureka Client
 - Web
