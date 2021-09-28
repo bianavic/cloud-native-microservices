@@ -1,3 +1,4 @@
+# we are going to use just the NATIVE filesystem (not a Git backend or a database)
 server:
   port: 8888
 spring:
