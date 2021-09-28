@@ -28,5 +28,9 @@ obs: can also be used as the entry point to our security
 - it's a way to deal with operations that can eventually fail. it has an open or closed status, telling us if the operation 
 that encapsulates can be used—think of circuit breakers as fuses in an electrical installation.
 
-
-
+### Start our stack ###
+Right order:
+- Start the Configuration Server
+- Start the Service Discovery Server
+- Start the microservice
+- Start the Gateway server
