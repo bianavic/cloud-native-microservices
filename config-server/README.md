@@ -17,3 +17,12 @@ obs: Cipher data with Java Cryptography
 ### port ###
 
 server.port = 8888
+
+### production profile ###
+
+``
+$ ./mvnw package
+
+$ java -jar target/config-server-0.0.1-SNAPSHOT.jar --spring.cloud.config.profile=production
+
+```
